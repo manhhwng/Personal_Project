@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://png.pngtree.com/background/20210711/original/pngtree-colorful-fruit-and-vegetable-cartoon-hand-drawn-yellow-banner-picture-image_1068097.jpg");
+  /*background-color: ghostwhite;*/
+  background-size: cover;
+ }
+
+div h2 span {
+  float: none; margin: 0px auto; outline: 0px; padding: 2px 4px; vertical-align: baseline; color: navy; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 35px;
+  /*background: whitesmoke; border-radius: 2px; border: 3px solid goldenrod; box-sizing: border-box; float: none; margin: 0px auto; outline: 0px; padding: 3px 6px; vertical-align: baseline; color: navy; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 30px;*/
+ }
+
+ h3{
+  color: navy;
+ }
